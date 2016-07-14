@@ -1,8 +1,8 @@
 def edad():
     while True:
         try:
-            global z
-            z=int(input("Ingrese su edad : "))
+            global edad
+            edad=int(input("Ingrese su edad : "))
             break
         except ValueError :
             print("intentelo de nuevo")
