@@ -1,4 +1,4 @@
-def edad():
+def edad
     while True:
         try:
             global edad
